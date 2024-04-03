@@ -102,7 +102,7 @@
 
 ###
 
-<img src="https://github.com/emilie-zhu/emilie-zhu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emilie-zhu/emilie-zhu/output/snake.svg" alt="Snake animation" />
 
 ###
 
