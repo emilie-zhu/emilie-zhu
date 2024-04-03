@@ -1,22 +1,18 @@
 <div align="center">
+  <h1>Hi :partying_face: What's up?</h1>
+  <h3>I'm Emilie Zhu</h3>
+  <h3>You want to know me? :monocle_face:</h3>
+</div>
+
+## :fire: My Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emilie-zhu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilie-zhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=emilie-zhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/emilie-zhu/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+## :hammer_and_wrench: Language and tools
 
 <img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
@@ -106,9 +102,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emilie-zhu/emilie-zhu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+## :memo: License ##
 
 This design is licensed under the [MIT License](LICENSE).
 Made with ❤️ by [Mauro de Souza](https://github.com/maurodesouza).
